@@ -1,0 +1,2 @@
+# simpleq
+Make report easly!
