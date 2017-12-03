@@ -1,2 +1,2 @@
 # simpleq
-Make report easly!
+Queries should be simple!
